@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/java/Aston/zadanie2/entity/Book.java;D:/newCode/progm/Lesson/src/main/java/Aston/zadanie2/entity/Student.java;D:/newCode/progm/Lesson/src/main/java/Aston/zadanie2/patterns/adapter/AdapterRobot.java;D:/newCode/progm/Lesson/src/main/java/Aston/zadanie2/patterns/adapter/Animal.java;D:/newCode/progm/Lesson/src/main/java/Aston/zadanie2/patterns/adapter/Cat.java;D:/newCode/progm/Lesson/src/main/java/Aston/zadanie2/patterns/adapter/Robot.java;D:/newCode/progm/Lesson/src/main/java/Aston/zadanie2/patterns/builder/Builder.java;D:/newCode/progm/Lesson/src/main/java/Aston/zadanie2/patterns/builder/Student.java;D:/newCode/progm/Lesson/src/main/java/Aston/zadanie2/patterns/builder/StudentBuilder.java;D:/newCode/progm/Lesson/src/main/java/Aston/zadanie2/patterns/Main.java;D:/newCode/progm/Lesson/src/main/java/Aston/zadanie2/serves/StudentServes.java;D:/newCode/progm/Lesson/src/main/java/Aston/zadanie2/Start.java;D:/newCode/progm/Lesson/src/main/java/Garbage/liveCoding.java" />
+  </component>
+</project>
