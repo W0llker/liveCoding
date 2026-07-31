@@ -10,6 +10,8 @@ public class ThreadTest {
 //        teaTools.start();
 //      Runnable
         Thread t1 = new Thread(new ThreadRunnable());
+        //Виртуальный поток
+//        Thread t2 = Thread.ofVirtual().start(new ThreadRunnable());
 //        t1.start();
 
         showJoin(teaTools,new ThreadRunnable());
