@@ -45,5 +45,6 @@ public class ListExample {
         System.out.println(list.contains("3"));
         System.out.println(list.removeLast());
         System.out.println(list.removeLast());
+
     }
 }
